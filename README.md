@@ -1,2 +1,2 @@
-# enderuser-aula
-Plataforma de Ensino
+# EnderUser Aula
+Uma Plataforma Simples de Ensino à Distância
