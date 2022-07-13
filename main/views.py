@@ -2,4 +2,4 @@ from django.http import HttpResponse
 from django.shortcuts import render
 
 def home(request):
-    return HttpResponse('Tudo Certo Ate Aqui...')
+    return render(request, 'home_main.html', {'usuario':'Wender Monteiro'})
